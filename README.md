@@ -1,0 +1,3 @@
+# Car-Price-Analysis-and-Prediction
+This project uses several regression models such as Simple Linear Regression, Multiple Linear Regression and Polynomial Regression to find relationships between the characteristics of the car and it's price and attempts to build a model in order to be able to predict the price of a vehicle given some of it's characteristics. To check the model I have used a regressiona and residual plot and a custom plotting function to check the fitting of the model. To check error I have used Mean Square Error and R^2 error method for each model.
+The frameworks used are Python, Pandas, NumPy, Sci-Kit Learn, Matplotlib and Seaborn.
